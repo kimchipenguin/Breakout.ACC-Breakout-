@@ -1,0 +1,13 @@
+.DS_Store
+build/
+bin/
+c/bin/
+plus/test/
+plus/BRKPLUS.ACC
+plus/BRKPLUS.APP
+plus/brkplus.inf
+test/hd/
+test/home/
+test/shots/
+test/BRKPLUS.APP
+release/

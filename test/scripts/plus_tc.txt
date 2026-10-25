@@ -1,0 +1,18 @@
+copy SETMODE.PRG AUTO
+copy mode_tc.inf AUTO SETMODE.INF
+wait 16
+shot
+wait 8
+shot
+wait 8
+shot
+wait 8
+shot
+wait 8
+shot
+wait 8
+shot
+wait 8
+shot
+wait 8
+shot

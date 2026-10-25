@@ -1,0 +1,25 @@
+wait 22
+alt 0x48 12
+alt 0x4b 18
+alt 0x50 3
+alt 0x4d 9
+click
+wait 2
+shot
+alt 0x4d 9
+alt 0x50 9
+click
+wait 2
+shot
+click
+wait 3
+shot
+fast 0x4d 30
+wait 1
+shot
+rclick
+wait 1
+shot
+alt 0x48 30
+alt 0x4b 30
+shot

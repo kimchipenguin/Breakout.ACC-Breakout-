@@ -1,0 +1,17 @@
+copy BRKPLUS.APP
+wait 22
+click
+wait 3
+shot
+rclick
+alt 0x48 12
+alt 0x4b 18
+alt 0x4d 8
+wait 1
+shot
+alt 0x50 1
+wait 1
+shot
+click
+wait 3
+shot

@@ -1,0 +1,5 @@
+# Falcon VGA 640x480, 256 colours
+colors = 256
+monitor = vga
+columns = 80
+double = off

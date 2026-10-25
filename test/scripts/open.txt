@@ -1,0 +1,4 @@
+wait 22
+alt 0x48 12
+alt 0x4b 18
+shot
